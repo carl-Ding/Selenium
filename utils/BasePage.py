@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 # @Time   : 2019-10-25
-# @Author : Dingjs
+# @Author : Carl_dj
 
 from public.common.log import Logger
 from config import globalparam
