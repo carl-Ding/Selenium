@@ -1,5 +1,5 @@
 ﻿#smtp_server: smtp.qq.com
-smtp_server: mail.ronglian.com
+smtp_server: mail.xx.com
 #port: 465
 port: 25
 
